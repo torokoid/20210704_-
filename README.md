@@ -67,7 +67,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/Utsunomiya_swim/20210704_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://github.com/torokoid/20210704_Utsunomiya_swim/blob/main/20210704_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -137,7 +137,7 @@ a.p:hover span {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uBl8DgsweHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-	<p>宇賀神さんか？</p><br>
+<br><p>宇賀神さんか？</p><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZzPiGfJLDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODboyR4t7QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
