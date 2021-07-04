@@ -109,6 +109,7 @@ a.p:hover span {
     
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>
 
+<br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、気がついたものだけ動画撮りました。撮り逃しごめんなさい m(_ _)m</p><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TphLZb50_zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DXHMFTaaQ9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
