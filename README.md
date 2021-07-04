@@ -109,7 +109,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
     
-
+<h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>
 
 
 
