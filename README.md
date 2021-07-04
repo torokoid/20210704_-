@@ -56,10 +56,8 @@ background-color: rgba(0, 225, 0, 0.3);
     0% {opacity:0;}
     100% {opacity:1;}
 }
-
-#wrap {background:none} /*PC用の背景はオフ*/
     
-/*背景を表示させる部分*/
+#wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
   display:block;
@@ -69,7 +67,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(back.jpg) center/cover no-repeat; 
+  background:url(https://torokoid.github.io/utsunomiya_swim/20210704_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
