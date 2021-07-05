@@ -110,8 +110,11 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>
 
 <br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m</p><br>
+
+<br><br><p>50Free, 4コースじゅりちゃん１位！</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TphLZb50_zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><br><p>50Free, 4コースあかねちゃん１位！</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DXHMFTaaQ9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/THQiOx6FAlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -122,6 +125,7 @@ a.p:hover span {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wbSbAY49JY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<br><br><p>50Bre, 4コースゆなちゃん！</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XDPa_xdtsaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z_tGHILd98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -130,6 +134,7 @@ a.p:hover span {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F0koN6iudc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<br><br><p>50Back, 3コースゆなちゃん！</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eS3LRKIzMjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IkqnIiBgEkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -138,11 +143,11 @@ a.p:hover span {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uBl8DgsweHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>50Bat宇賀神さんか？</p>
+<br><br><p>50Bata, 宇賀神さん？</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZzPiGfJLDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODboyR4t7QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br><p>200Free,高校生の部</p>
+<br><br><p>200Free,高校生の部, 3コースあかねちゃん, 5コース赤羽くん</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--vO8NjMwVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><p>200Free,７コース赤羽さん</p>	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dMgzCMwGZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
