@@ -138,13 +138,13 @@ a.p:hover span {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uBl8DgsweHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><p>宇賀神さんか？</p><br>
+<br><p>50Bat宇賀神さんか？</p><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZzPiGfJLDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODboyR4t7QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
+<br><p>200Free,高校生の部</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--vO8NjMwVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
+<br><p>200Free,７コース赤羽さん</p>	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dMgzCMwGZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
