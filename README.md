@@ -13,7 +13,7 @@
 
 <style type="text/css">
  p {
-color: #0000ff;
+color: #ffffff;
 font-size: 1.5em;
  }
  
@@ -108,7 +108,7 @@ a.p:hover span {
 </p>
     
 <p align="left"> <img src="QR_20210704UtsunomiyaSwim.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>
 
 <br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m</p><br>
