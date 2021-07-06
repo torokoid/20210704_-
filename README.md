@@ -95,38 +95,7 @@ a.p:hover span {
 
 HTML CSSResult Skip Results Iframe
 EDIT ON
-#page_top{
-  width: 50px;
-  height: 50px;
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  background: #3fefee;
-  opacity: 0.6;
-}
-#page_top a{
-  position: relative;
-  display: block;
-  width: 50px;
-  height: 50px;
-  text-decoration: none;
-}
-#page_top a::before{
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 900;
-  content: '\f062';
-  font-size: 25px;
-  color: #fff;
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  margin: auto;
-  text-align: center;
-}
+
 	
 	
 </style>
@@ -150,9 +119,7 @@ EDIT ON
 <br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
 動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>
 	
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
 
-<div id="page_top"><a href="#"></a></div>
 
 <br><br><p>50Free, 4コースじゅりちゃん１位！</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TphLZb50_zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
