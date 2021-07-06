@@ -149,6 +149,10 @@ EDIT ON
 
 <br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
 動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>
+	
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+
+<div id="page_top"><a href="#"></a></div>
 
 <br><br><p>50Free, 4コースじゅりちゃん１位！</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TphLZb50_zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -199,9 +203,7 @@ EDIT ON
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
 
-<div id="page_top"><a href="#"></a></div>
 
 <!-- フッタ -->
  <footer>
