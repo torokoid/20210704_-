@@ -58,7 +58,7 @@ background-color: rgba(0, 225, 0, 0.3);
 }
     
 body {
-  background: #a8ffff url(20210704_002.JPG) no-repeat fixed;
+  background: #a8ffff url(20210704_001.JPG) no-repeat fixed;
   color: #ffffff; background-size:cover; 
 }
 	
