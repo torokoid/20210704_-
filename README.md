@@ -56,15 +56,10 @@ background-color: rgba(0, 225, 0, 0.3);
     0% {opacity:0;}
     100% {opacity:1;}
 }
-    
-<!--
-body {
-  background: #a8ffff url(20210704_001.JPG) no-repeat fixed;
-  color: #ffffff; background-size:cover; 
-}
--->
 
 #wrap {background:none} /*PC用の背景はオフ*/
+    
+/*背景を表示させる部分*/
 body::before {
   content:"";
   display:block;
@@ -74,11 +69,10 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(20210704_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(20210704_001.JPG) center/cover no-repeat; 
   -webkit-background-size:cover;/*Android4*/
   }
- 
-	
+  
 a.p:hover {
     position: relative;
     text-decoration: none;
@@ -95,25 +89,13 @@ a.p:hover span {
     width: 800px;
 }   
  
-	
- #preview{
-	position: relative;
-	border: 3px solid #333;
-	background: #444;
-	padding: 5px;
-	display: none;
-	color: #FFF;
-	text-align: center;
-}
-	
-	
+
 @media	screen and (min-width: 540px),
 	screen and (orientation: landscape) {
    p.note { display: none; }
 }
 
-
-</style> 
+</style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
