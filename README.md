@@ -157,6 +157,9 @@ a.p:hover span {
 	
 <br><br><p>200Free, 成年男子の部, ７コース赤羽さん</p>	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dMgzCMwGZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<br><br><p>おまけ、背景原画</p>
+<a href="202100704_002.JPG" data-lightbox="abc"><img src="202100704_002.JPG" alt="サンプル画像" width="560" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
