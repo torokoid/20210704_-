@@ -73,7 +73,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(20210704_002.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(20210704_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   -->
@@ -126,7 +126,6 @@ EDIT ON
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>
 
-<div style="background-color: rgba(128,255,255,0.8)";>  
 	
 <br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
 動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>
@@ -180,7 +179,7 @@ EDIT ON
 <br><br><p>おまけ、背景原画</p>
 <a href="20210704_002.JPG" data-lightbox="abc"><img src="20210704_002.JPG" alt="サンプル画像" width="560" /></a>
 	
-	</div>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
