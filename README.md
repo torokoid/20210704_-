@@ -96,6 +96,17 @@ a.p:hover span {
 }   
  
 	
+ #preview{
+	position: relative;
+	border: 3px solid #333;
+	background: #444;
+	padding: 5px;
+	display: none;
+	color: #FFF;
+	text-align: center;
+}
+	
+	
 @media	screen and (min-width: 540px),
 	screen and (orientation: landscape) {
    p.note { display: none; }
