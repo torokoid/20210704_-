@@ -67,7 +67,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(20210704_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(20210704_002.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -106,7 +106,8 @@ EDIT ON
 
 <body>
 
-
+<div style="background-color: rgba(128,255,255,0.8)";>   
+	
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
@@ -167,6 +168,8 @@ EDIT ON
 	
 <br><br><p>おまけ、背景原画</p>
 <a href="20210704_002.JPG" data-lightbox="abc"><img src="20210704_002.JPG" alt="サンプル画像" width="560" /></a>
+	
+	</div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
