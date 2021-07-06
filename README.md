@@ -147,9 +147,9 @@ a.p:hover span {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZzPiGfJLDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODboyR4t7QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br><p>200Free,高校生の部, 3コースあかねちゃん, 5コース赤羽くん</p>
+<br><br><p>200Free, 高校生の部, 3コースあかねちゃん, 5コース赤羽くん</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--vO8NjMwVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br><p>200Free,成人の部, ７コース赤羽さん</p>	
+<br><br><p>200Free, 成人の部, ７コース赤羽さん</p>	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dMgzCMwGZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
