@@ -106,17 +106,21 @@ EDIT ON
 
 <body>
 
-<div style="background-color: rgba(128,255,255,0.8)";>   
+ 
 	
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
     
+	
+	
 <p align="left"> <img src="QR_20210704UtsunomiyaSwim.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>
 
+<div style="background-color: rgba(128,255,255,0.8)";>  
+	
 <br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
 動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>
 	
