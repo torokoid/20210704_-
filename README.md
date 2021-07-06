@@ -13,7 +13,7 @@
 
 <style type="text/css">
  p {
-color: #ffffff;
+color: #0000ff;
 font-size: 1.5em;
  }
  
