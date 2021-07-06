@@ -94,18 +94,14 @@ a.p:hover span {
     width: 800px;
 }   
  
-
+	
 @media	screen and (min-width: 540px),
 	screen and (orientation: landscape) {
    p.note { display: none; }
 }
 
-HTML CSSResult Skip Results Iframe
-EDIT ON
 
-	
-	
-</style>
+</style> 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
