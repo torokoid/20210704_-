@@ -57,6 +57,12 @@ background-color: rgba(0, 225, 0, 0.3);
     100% {opacity:1;}
 }
     
+body {
+  background: #a8ffff url(20210704_002.JPG) no-repeat fixed;
+  color: #ffffff; background-size:cover; 
+}
+	
+<!--	
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -70,7 +76,8 @@ body::before {
   background:url(20210704_002.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
-  
+  -->
+	
 a.p:hover {
     position: relative;
     text-decoration: none;
