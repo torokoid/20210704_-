@@ -117,9 +117,9 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>
 
 	<br><p>ドリームかわちのアカウント立ち上げに伴い、HPを移動しました。<br>ほぼ同じ内容ですが、IT情報のおまけ付きです。</p>
-<a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/" target="_blank" rel="noopener noreferrer">新HPリンク、別のタブで開きます。</a>
+<h1><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/" target="_blank" rel="noopener noreferrer">新HPリンク、別のタブで開きます。</a></h1>
 	
-<br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
+<br><br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
 動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>
 	
 
